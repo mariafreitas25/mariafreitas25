@@ -1,5 +1,5 @@
 ### Hi, Welcome to my wolrd 🫀
-- Estou estudando no Alura
+- Estou estudando no [Alura](https://www.alura.com.br)
 <!--
 **mariafreitas25/mariafreitas25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
